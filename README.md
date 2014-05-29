@@ -60,7 +60,7 @@ Se ha llevado: 21 pasos
 Tardo: 0.045 segundos en ser resuelto
 
 
-
+La carpeta para ejecutar el puzzle es: 15Puzzle/src
 
 
 
